@@ -1,4 +1,8 @@
 ### Hi there 👋
+this is a bot used by the following orgs/users:
+- [@fawaf](https://github.com/fawaf)
+- [@aatf](https://github.com/aatf)
+- [@fawong](https://github.com/fawong)
 
 <!--
 **wafbot/wafbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
