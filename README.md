@@ -1,5 +1,5 @@
 ### Hi there 👋
-this is a bot used by the following orgs/users:
+this user is a bot used by the following orgs/users:
 - [@fawaf](https://github.com/fawaf)
 - [@aatf](https://github.com/aatf)
 - [@fawong](https://github.com/fawong)
