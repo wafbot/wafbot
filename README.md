@@ -3,6 +3,10 @@ this user is a bot used by the following orgs/users:
 - [@fawaf](https://github.com/fawaf)
 - [@aatf](https://github.com/aatf)
 - [@fawong](https://github.com/fawong)
+- [@waf-hk](https://github.com/waf-hk)
+- [@kirinas](https://github.com/kirinas)
+- [@kara-net](https://github.com/kara-net)
+- [@xilef-org](https://github.com/xilef-org)
 
 <!--
 **wafbot/wafbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
